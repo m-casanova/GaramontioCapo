@@ -13,5 +13,8 @@ Sono presenti solo i caratteri da A a Z.
 ![image](images/garamontio_capo_2.jpg)
 
 Questo capolettera appare adatto per essere abbinato a [Garamontio](https://github.com/m-casanova/Garamontio).
+Inoltre è possibile che in versioni future sia possibile avere le lettere divise in due distinti elementi per ottenere capolettera bicolori. 
 
 ![image](images/garamontio_capo_3.jpg)
+
+![image](images/garamontio_capo_4.jpg)
