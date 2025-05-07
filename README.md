@@ -7,7 +7,7 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 ## Descrizione
 ![image](images/garamontio_capo_1.jpg)
 
-Il font "Garamontio Capo" è basato su capolettera rinascimentali <a target="_blank" href="https://archive.org/details/schriftenatlasei02petz/page/n187/mode/2up">pubblicati da Ludwig Petzendorfer nel 1889</a>.
+Il font "Garamontio Capo" è basato su capolettera rinascimentali (_Renaissance-Initialen_) <a target="_blank" href="https://archive.org/details/schriftenatlasei02petz/page/n187/mode/2up">pubblicati da Ludwig Petzendorfer nel 1889</a>.
 
 Sono presenti solo i caratteri da A a Z.
 
