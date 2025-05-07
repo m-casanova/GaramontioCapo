@@ -1,5 +1,6 @@
 # Garamontio Capo
-* Versione 1.125: sistemazione dei caratteri e creazione dei due libelli (_ss01_ e _ss02_) per capolettera bicolore
+* Versione 1.126: fix minori
+* Versione 1.125: sistemazione dei caratteri e creazione dei due livelli (_ss01_ e _ss02_) per capolettera bicolore
 * Versione 1.0: versione iniziale
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/GaramontioCapo/).
