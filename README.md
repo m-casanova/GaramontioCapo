@@ -1,4 +1,5 @@
 # Garamontio Capo
+* Versione 1.125: sistemazione dei caratteri e creazione dei due libelli (_ss01_ e _ss02_) per capolettera bicolore
 * Versione 1.0: versione iniziale
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/GaramontioCapo/).
@@ -10,11 +11,9 @@ Il font "Garamontio Capo" è basato su capolettera rinascimentali <a target="_bl
 
 Sono presenti solo i caratteri da A a Z.
 
+Questo capolettera appare adatto per essere abbinato a [Garamontio](https://github.com/m-casanova/Garamontio).
+È possibile avere le lettere divise in due distinti elementi per ottenere capolettera bicolori. 
+
 ![image](images/garamontio_capo_2.jpg)
 
-Questo capolettera appare adatto per essere abbinato a [Garamontio](https://github.com/m-casanova/Garamontio).
-Inoltre è possibile che in versioni future sia possibile avere le lettere divise in due distinti elementi per ottenere capolettera bicolori. 
-
 ![image](images/garamontio_capo_3.jpg)
-
-![image](images/garamontio_capo_4.jpg)
