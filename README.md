@@ -1,4 +1,5 @@
 # Garamontio Capo
+* Versione 1.129: fix lettera /H
 * Versione 1.128: fix lettere /C /E /F /G
 * Versione 1.127: fix lettere /O /P /R /D
 * Versione 1.126: fix minori
