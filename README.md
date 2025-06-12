@@ -1,4 +1,5 @@
 # Garamontio Capo
+* Versione 2.000: nuova versione da [Cormorant Garamond](https://github.com/CatharsisFonts/Cormorant)
 * Versione 1.129: fix lettera /H
 * Versione 1.128: fix lettere /C /E /F /G
 * Versione 1.127: fix lettere /O /P /R /D
@@ -11,10 +12,16 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 ## Descrizione
 ![image](images/garamontio_capo_1.jpg)
 
-Il font "Garamontio Capo" è basato su capolettera rinascimentali (_[Renaissance-Initialen](https://archive.org/details/schriftenatlasei02petz/page/n187/mode/2up)_) pubblicati da Ludwig Petzendorfer nel 1889, ma con alcune modifiche in modo che questo capolettera possa essere abbinato a [Garamontio](https://github.com/m-casanova/Garamontio).
+La versione 2 del font _Garamontio Capo_ è basata su _[Cormorant Garamond](https://github.com/CatharsisFonts/Cormorant)_ di Christian Thalmann, con alcune modifiche e con l'aggiunta di alcuni sfondi derivati dalle decorazioni di fine Cinquecento. Sono presenti solo le lettera da A a Z.
 
-Sono presenti solo i caratteri da A a Z. Ogni lettera è disponibile in due livelli per ottenere capolettera bicolori. 
+Oltre alle semplici lettere maiuscole è possibile combinare gli sfondi (numeri da 1 a 8) con le versioni centrate delle lettere (utilizzando stylistic set _ss01_)
 
 ![image](images/garamontio_capo_2.jpg)
 
+Gli otto sfondi disponibili (accessibili tramite i numeri da 1 a 8)
+
 ![image](images/garamontio_capo_3.jpg)
+
+Un esempio di abbinamento a [Garamontio](https://github.com/m-casanova/Garamontio)
+
+![image](images/garamontio_capo_4.jpg)
