@@ -1,4 +1,5 @@
 # Garamontio Capo
+* Versione 2.101: + decorazioni per 9 e 0
 * Versione 2.000: nuova versione da [Cormorant Garamond](https://github.com/CatharsisFonts/Cormorant)
 * Versione 1.129: fix lettera /H
 * Versione 1.128: fix lettere /C /E /F /G
@@ -18,7 +19,7 @@ Oltre alle semplici lettere maiuscole è possibile combinare gli sfondi (numeri 
 
 ![image](images/garamontio_capo_2.jpg)
 
-Gli otto sfondi disponibili (accessibili tramite i numeri da 1 a 8)
+I dieci sfondi disponibili (accessibili tramite le singole cifre 1, 2, 3, 4 , 5, 6, 7, 8, 9, 0)
 
 ![image](images/garamontio_capo_3.jpg)
 
