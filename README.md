@@ -15,7 +15,7 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 
 La versione 2 del font _Garamontio Capo_ è basata su _[Cormorant Garamond](https://github.com/CatharsisFonts/Cormorant)_ di Christian Thalmann, con alcune modifiche e con l'aggiunta di alcuni sfondi derivati dalle decorazioni di fine Cinquecento. Sono presenti solo le lettera da A a Z.
 
-Oltre alle semplici lettere maiuscole è possibile combinare gli sfondi (numeri da 1 a 8) con le versioni centrate delle lettere (utilizzando stylistic set _ss01_)
+Oltre alle semplici lettere maiuscole è possibile combinare gli sfondi (usando le cifre) con le versioni centrate delle lettere (utilizzando stylistic set _ss01_)
 
 ![image](images/garamontio_capo_2.jpg)
 
